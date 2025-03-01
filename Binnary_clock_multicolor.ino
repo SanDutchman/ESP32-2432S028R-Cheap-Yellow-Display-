@@ -11,8 +11,8 @@ int past_hour = 0;
 int past_minute = 0;
 int past_second = 0;
 
-#define SSID "Ziggo9703034"
-#define PASS "Sd4xvtxvhRwq"
+#define SSID "ssid" // Change "ssid" to "your ssid"
+#define PASS "password" // Change "password" to "your password"
 
 const long utcOffsetWinter = 3600; // Offset from UTC in seconds (3600 seconds = 1h) -- UTC+1 (Central European Winter Time)
 const long utcOffsetSummer = 7200; // Offset from UTC in seconds (7200 seconds = 2h) -- UTC+2 (Central European Summer Time)
